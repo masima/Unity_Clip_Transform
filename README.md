@@ -1,0 +1,2 @@
+# Unity_Clip_Transform
+GameObjectを選択し、右クリックメニューの「Clip Transform」からTransformの値をクリップボードにコピー＆ペーストができるようになります。
